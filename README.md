@@ -7,4 +7,3 @@ Yukarıda Code yazan yeşil bağlantıya tıklarsanız bu sayfadaki kodları zip
 ![](Arduino-and-MPU6050-Circuit-Diagram.png) </br> </br>
 # Videoyu aşağıdaki bağlantıdan izleyebilirsiniz 
 [![IMAGE ALT TEXT HERE]()](https://www.youtube.com/watch?v=B2S7VlqK_-Q)</br></br>
-Please subscribe ❤️ For all lovers of #ArduinoGestureRobot #ArduinoProjects #ArduinoRobot </br> </br>
