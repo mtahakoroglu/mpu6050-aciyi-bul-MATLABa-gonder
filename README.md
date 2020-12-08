@@ -6,4 +6,4 @@ Yukarıda Code yazan yeşil bağlantıya tıklarsanız bu sayfadaki kodları zip
 ![arduino and mpu6050 connections](Arduino-and-MPU6050-Circuit-Diagram.png) </br></br>
 ![work flow](workflow.PNG) </br></br>
 # Videoyu aşağıdaki bağlantıdan izleyebilirsiniz 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/B2S7VlqK_-Q/mq3.jpg?sqp=CIzOuv4F&rs=AOn4CLA5Amqeqg8xPotfP-gUu3MajMFGtg)](https://www.youtube.com/watch?v=B2S7VlqK_-Q)</br></br>
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/B2S7VlqK_-Q/mq3.jpg?sqp=CPTlvf4F&rs=AOn4CLCDj4hiPvBdlO46ZZFCI2yuB04CEw)](https://www.youtube.com/watch?v=B2S7VlqK_-Q)</br></br>
